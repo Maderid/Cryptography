@@ -1,2 +1,4 @@
-#Cryptography Application Project
+Cryptography Application Project
+
+
 Developed a comprehensive desktop application implementing multiple classical and custom cryptographic algorithms for both text and file encryption/decryption. Integrated algorithms included Caesar, Vigenère, Transposition (Columnar), Vernam (One-Time Pad), Color Code (custom mapping), and a Product Cipher combining Caesar and Vigenère. Designed a user-friendly GUI in C# (.NET Windows Forms) enabling users to select encryption methods, input keys, and process messages or files of any type (e.g., text documents, images). Implemented file-safe encryption ensuring encrypted and decrypted files retain their original formats. Included robust error handling, dynamic key derivation for hybrid ciphers, and support for encrypting printable ASCII characters and extended symbols. Enhanced usability with automatic key management for Vernam and clear user feedback through message dialogs.
